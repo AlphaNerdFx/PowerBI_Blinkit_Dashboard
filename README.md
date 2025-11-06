@@ -1,4 +1,4 @@
-# PowerBI_Blinkit_Dashboard
+# PowerBI Blinkit Dashboard
 Blinkit is an indian quick-commerce and online grocery delivery app. It connects customers with nearby stores, enabling them to order groceries, personal care items, household essentials, and more. The app is designed for speed and convenience, ensuring users receive their orders in record time.
 
 <img width="1442" height="804" alt="Blinkit App" src="https://github.com/user-attachments/assets/4040cb0c-a20d-4ae5-b531-6417058a9469" />
